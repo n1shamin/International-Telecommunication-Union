@@ -1,6 +1,6 @@
 # International-Telecommunication-Union
 
-This repo incldues the materials needed to pull data from ITU 
+This repo includes the materials needed to pull data from ITU 
 
 ITU Country.xlsx is the country concordance 
 
